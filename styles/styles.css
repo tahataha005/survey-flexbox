@@ -47,6 +47,17 @@ textarea{
     min-width: 200px;
 }
 
+.sbutton{
+    align-self: center;
+    height: 40px;
+    width: 90px;
+    background-color: maroon;
+    border-color: firebrick;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(199, 199, 199)
+}
+
 .inputtxt{
     flex-grow: 1;
     height: 40px;
